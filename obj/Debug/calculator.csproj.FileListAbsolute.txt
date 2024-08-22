@@ -1,0 +1,10 @@
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\bin\Debug\calculator.exe.config
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\bin\Debug\calculator.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\bin\Debug\calculator.pdb
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.calculatorload.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.exe
+C:\Users\Stupid Cat\Desktop\#F22AFF\C#\calculator-\obj\Debug\calculator.pdb
